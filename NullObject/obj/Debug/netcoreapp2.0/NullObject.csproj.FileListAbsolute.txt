@@ -1,0 +1,11 @@
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\bin\Debug\netcoreapp2.0\NullObject.deps.json
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\bin\Debug\netcoreapp2.0\NullObject.runtimeconfig.json
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\bin\Debug\netcoreapp2.0\NullObject.runtimeconfig.dev.json
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\bin\Debug\netcoreapp2.0\NullObject.dll
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\bin\Debug\netcoreapp2.0\NullObject.pdb
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\obj\Debug\netcoreapp2.0\NullObject.csprojAssemblyReference.cache
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\obj\Debug\netcoreapp2.0\NullObject.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\obj\Debug\netcoreapp2.0\NullObject.AssemblyInfoInputs.cache
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\obj\Debug\netcoreapp2.0\NullObject.AssemblyInfo.cs
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\obj\Debug\netcoreapp2.0\NullObject.dll
+C:\Users\cosmi\Documents\Visual Studio 2017\Projects\NullObject\NullObject\obj\Debug\netcoreapp2.0\NullObject.pdb
