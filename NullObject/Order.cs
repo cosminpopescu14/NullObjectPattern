@@ -2,14 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 
+using System.Linq;
+
 namespace NullObject
 {
     class Order
     {
-        public int totalBeforeDiscount = 300;
+
         public IEnumerable<LineItem> LineItems => lineItems.AsReadOnly();
         public decimal Total => discount.Calculate(totalBeforeDiscount); // error if the dicount is null. null could be checked with:
                                                                          // discount == null ? totalBeforeDiscount : discount.Calculate(totalBeforeDiscount);
+        private decimal totalBeforeDiscount => lineItems.Sum(i => i.Price);
 
         private IDiscount discount;
         private List<LineItem> lineItems; //initialized to null

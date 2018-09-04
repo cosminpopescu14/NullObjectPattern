@@ -6,6 +6,18 @@ namespace NullObject
 {
     class Product
     {
-        static internal decimal UnitPice;
+        private decimal UnitPice/* = 100*/;
+
+        public decimal UnitPrice
+        {
+            get
+            {
+                return this.UnitPice;
+            }
+            set
+            {
+                this.UnitPice = value;
+            }
+        }
     }
 }

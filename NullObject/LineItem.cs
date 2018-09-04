@@ -6,9 +6,10 @@ namespace NullObject
 {
     class LineItem
     {
+        Product p = new Product();
         public Product Product { get; }
         public decimal Quantity { get; }
-        public decimal Price => Product.UnitPice * Quantity;
+        public decimal Price => Product.UnitPrice * Quantity;
 
         public LineItem(Product product, decimal quantity)
         {
